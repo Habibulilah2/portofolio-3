@@ -5,6 +5,8 @@
 }
 
 .portfolio__item {
+    position: relative;
+    height: 410px;
     background: var(--color-bg-variant);
     padding: 1.3rem;
     border-radius: 2rem;
@@ -23,12 +25,14 @@
 }
 
 .portfolio__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0;
 }
 
 .portfolio__item-cta {
     display: flex;
+    position: absolute;
     gap: 1rem;
+    bottom: 0;
     margin-bottom: 1rem;
 }
 

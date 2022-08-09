@@ -37,10 +37,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt
-            corporis dolor perspiciatis impedit, accusantium officia ducimus
-            voluptatem fugiat vitae placeat totam omnis explicabo quidem animi
-            ad, nemo enim, odio ullam?
+          Hi! I'm Habibul Ilah, I live in Bekasi. I have experience in Web Developer
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
